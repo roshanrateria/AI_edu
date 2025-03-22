@@ -1,4 +1,3 @@
-```markdown
 # GraderX: AI Interview Companion  
 
 
@@ -84,4 +83,3 @@ GraderX is an AI-driven interview preparation platform that combines **computer 
 --- 
 
 🔒 **Confidentiality Notice**: The proprietary algorithms and system design are protected under a draft patent (filed Q2 2024).  
-```
